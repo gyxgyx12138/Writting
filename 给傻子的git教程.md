@@ -20,5 +20,4 @@ git config --global https.proxy http://127.0.0.1:1080
 git config --global --unset http.proxy
 git config --global --unset https.proxy
 ```
-再次点击publish  branch,文件即可上传到github上。
-你好
+再次点击publish  branch,文件即可上传到github上
