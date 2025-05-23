@@ -21,3 +21,4 @@ git config --global --unset http.proxy
 git config --global --unset https.proxy
 ```
 再次点击publish  branch,文件即可上传到github上。
+你好
